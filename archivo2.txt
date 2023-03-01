@@ -1,2 +1,2 @@
-Hoy es el dia del aniversario
-hoy sera un gran dia para sonreir
+Esperemos que funcione
+Todavia hay fallas en el codigo
